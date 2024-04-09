@@ -6,7 +6,7 @@ let endMessage = document.getElementById('endMessage');
 let restartButton = document.getElementById('restartButton');
 let closeButton = document.getElementById('closeButton');
 
-// Initially hide the reset button and close button
+
 restartButton.style.display = 'none';
 closeButton.style.display = 'none';
 
